@@ -2,7 +2,7 @@
     "name": "los/loslog",
     "description": "LosLog provides some log utility",
     "require": {
-        "php": "^7.1",
+        "php": "^7.1 || ^8.0",
         "psr/log": "^1.0",
         "laminas/laminas-stratigility": "^3.0",
         "laminas/laminas-diactoros": "^1.7 || ^2.0",
